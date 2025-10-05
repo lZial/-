@@ -1,0 +1,8 @@
+D:\Visual Studio\Проекты\Калькулятор\Калькулятор\bin\Debug\Калькулятор.exe.config
+D:\Visual Studio\Проекты\Калькулятор\Калькулятор\bin\Debug\Калькулятор.exe
+D:\Visual Studio\Проекты\Калькулятор\Калькулятор\bin\Debug\Калькулятор.pdb
+D:\Visual Studio\Проекты\Калькулятор\Калькулятор\obj\Debug\Калькулятор.csproj.AssemblyReference.cache
+D:\Visual Studio\Проекты\Калькулятор\Калькулятор\obj\Debug\Калькулятор.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Проекты\Калькулятор\Калькулятор\obj\Debug\Калькулятор.exe
+D:\Visual Studio\Проекты\Калькулятор\Калькулятор\obj\Debug\Калькулятор.pdb
+D:\Visual Studio\Проекты\Калькулятор\Калькулятор\obj\Debug\Калькулятор.exe.config
