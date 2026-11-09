@@ -1,0 +1,10 @@
+# временные и служебные файлы
+~$*
+*.tmp
+*.log
+*.err
+*.bak
+*.bak.mpp
+__pycache__/
+.DS_Store
+Thumbs.db
